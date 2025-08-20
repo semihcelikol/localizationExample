@@ -1,4 +1,4 @@
-# localizationExample
+# React Native(Expo) LocalizationExample
 
 Bu uygulama, React Native ve Expo kullanarak çoklu dil desteği (lokalizasyon) sunan örnek bir mobil uygulamadır. Kullanıcıların cihaz diline göre arayüz otomatik olarak Türkçe veya İngilizce olarak gösterilir. Ayrıca kullanıcılar uygulama içinden dili manuel olarak değiştirebilir ve tercihleri kaydedilir.
 
